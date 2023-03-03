@@ -1,0 +1,19 @@
+.div-cards img {
+    width: 100%;
+    height: 100%;
+}
+
+.txt-equipe {
+    margin-left: 2rem;
+}
+
+.div-equipe {
+
+    margin-top: 5rem;
+    flex-wrap: wrap;
+    gap: 0.9375rem;
+}
+
+.card {
+    border-radius: 5px;
+}

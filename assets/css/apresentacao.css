@@ -42,10 +42,11 @@
     justify-content: center;
     align-items: center;
     margin-top: -5rem;
+    padding-bottom: 5rem;
 }
 
-.produto h2 {
-    font-size: 1rem;
+.produto h3 {
+    font-size: 1.2rem;
 }
 
 .produto p {
