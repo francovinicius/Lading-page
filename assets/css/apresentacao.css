@@ -33,7 +33,6 @@
     align-items: center;
     width: 100%;
     background: #fff;
-    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px;
     border-radius: 3px;
 }
 
@@ -52,3 +51,20 @@
 .produto p {
     font-size: 0.75rem;
 }
+
+.produto-vantagens {
+    flex-wrap: wrap;
+}
+
+.frame-8 {
+    width: 5rem;
+}
+
+.frame-7 {
+    width: 11rem;
+}
+
+.frame-6 {
+    width: 10rem;
+}
+
