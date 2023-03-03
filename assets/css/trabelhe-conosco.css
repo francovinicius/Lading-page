@@ -12,3 +12,15 @@
 
     margin-top: 1rem;
 }
+
+.input-trabalhe, .text-trabalhe {
+    border-bottom: 2px solid #9C27B0;
+}
+
+.input-trabalhe {
+    margin-right: .5rem;
+}
+
+.form-trabalhe {
+    margin-top: 2rem;
+}
