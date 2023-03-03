@@ -1,4 +1,54 @@
+
+.txt-apresentacao {
+    margin-top: -7rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: .5rem;
+
+}
 .txt-apresentacao h1 {
-    width: 50%;
-    font-size: 22px;
+    width: 55%;
+    font-size: 1.3rem;
+    margin-bottom: .5rem;
+    color: #fff;
+}
+
+.txt-apresentacao p {
+    display: none;
+
+}
+
+.txt-apresentacao button {
+    background: #F44336;
+    color: #fff;
+}
+
+.capa-white {
+    width: 100%;
+}
+
+.capa-white img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: #fff;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px;
+    border-radius: 3px;
+}
+
+.produto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -5rem;
+}
+
+.produto h2 {
+    font-size: 1rem;
+}
+
+.produto p {
+    font-size: 0.75rem;
 }
