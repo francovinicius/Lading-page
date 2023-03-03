@@ -1,0 +1,14 @@
+.div-footer {
+    flex-wrap: wrap;
+    padding: 2rem 0;
+}
+
+.div-start, .div-end {
+    font-size: 12px;
+    margin-bottom: .5rem;
+    gap: 10px;
+}
+
+.div-start {
+    
+}
