@@ -1,11 +1,11 @@
 @media screen and (min-width:640px) {
     .txt-apresentacao h1 {
-        font-size: 26px;
+        font-size: 1.625rem;
         margin-top: -12rem;
     }
     .txt-apresentacao p {
         display: flex;
-        font-size: 10px;
+        font-size: 0.625rem;
         color: #fff;
         width: 500px;
         margin-bottom: 0.3125rem;
@@ -16,9 +16,13 @@
         font-size: 1.375rem;
         margin-top: -2rem;
     }
-    .produto p {
-        font-size: 0.8rem;
+    .paragrafo-p {
+        font-size: 0.875rem;
         margin-bottom: 4rem;
+    }
+
+    .trabelhe-conosco p {
+        width: 520px;
     }
 }
 
@@ -26,4 +30,132 @@
     .avatar {
         padding: 0;
     }
+
+    .txt-apresentacao h1 {
+        font-size: 1.875rem;
+        margin-top: -15rem;
+    }
+    .txt-apresentacao p {
+        display: flex;
+        font-size: 0.75rem;
+        color: #fff;
+        width: 500px;
+        margin-bottom: 0.3125rem;
+    
+    }
+
+    .produto h3 {
+        font-size: 1.8rem;
+        margin-top: -2rem;
+    }
+    .paragrafo-p {
+        font-size: 0.8rem;
+        margin-bottom: 4rem;
+    }
+
+    .equipe h2, .trabelhe-conosco h2 {
+        font-size: 1.8rem;
+    }
+
+    .trabelhe-conosco p {
+        font-size: 0.8751rem;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .txt-apresentacao h1 {
+        font-size: 42px;
+        margin-top: -18rem;
+    }
+    .txt-apresentacao p {
+
+        font-size: 0.875rem;
+        color: #fff;
+        width: 520px;
+        margin-bottom: 0.625rem;
+    
+    }
+
+    .produto h3 {
+        font-size: 1.8rem;
+        margin-top: -8rem;
+    }
+    .paragrafo-p{
+        font-size: 1rem;
+    }
+
+    .equipe h2, .trabelhe-conosco h2 {
+        font-size: 1.8rem;
+    }
+
+}
+
+@media screen and (min-width:1440px) {
+    .txt-apresentacao h1 {
+        font-size: 60px;
+        margin-top: -25rem;
+    }
+    .txt-apresentacao p {
+
+        font-size: 1rem;
+        color: #fff;
+        width: 520px;
+        margin-bottom: 1rem;
+    
+    }
+
+    .txt-apresentacao button {
+        padding: .5rem;
+        font-size: 1rem;
+    }
+
+    .produto h3 {
+        font-size: 3rem;
+        margin-top: -15rem;
+    }
+    .paragrafo-p, .trabalhe-p{
+        font-size: 1.3rem;
+        margin-top: 1rem;
+    }
+
+    .equipe h2, .trabelhe-conosco h2 {
+        font-size: 3.5rem;
+    }
+
+}
+
+@media screen and (min-width:1920px) {
+    .txt-apresentacao h1 {
+        font-size: 79px;
+        margin-top: -35rem;
+    }
+    .txt-apresentacao p {
+
+        font-size: 1.5rem;
+        color: #fff;
+        width: 900px;
+        margin-bottom: 1rem;
+    
+    }
+
+    .txt-apresentacao button {
+        padding: 1rem;
+        font-size: 1.5rem;
+    }
+
+    .produto h3 {
+        font-size: 4rem;
+        margin-top: -20rem;
+    }
+    .paragrafo-p{
+        font-size: 1.7rem;
+        margin-top: 5rem;
+        margin-bottom: 10rem;
+        width: 1600px;
+    }
+
+    .equipe h2, .trabelhe-conosco h2 {
+        font-size: 4.5rem;
+    }
+
 }
