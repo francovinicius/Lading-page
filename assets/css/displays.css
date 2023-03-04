@@ -21,3 +21,9 @@
         margin-bottom: 4rem;
     }
 }
+
+@media screen and (min-width:767px) {
+    .avatar {
+        padding: 0;
+    }
+}

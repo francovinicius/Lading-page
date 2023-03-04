@@ -6,6 +6,10 @@
     height: 100%;
 }
 
+.avatar {
+    padding-top: 1rem;
+}
+
 .txt-equipe {
     margin-left: 2rem;
 }
